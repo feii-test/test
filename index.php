@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <input type="hidden" oncontentvisibilityautostatechange=alert(1) style=display:block;content-visibility:auto>
+    
+</body>
+</html>
